@@ -78,6 +78,6 @@ root
 ## Our Team💝
 
 <a href="https://github.com/SubhanuSRoy/vokal/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=SubhanuSRoy/vokal" />
+  <img src="https://contrib.rocks/image?repo=eshan1925/Eventour" />
 </a>
 
