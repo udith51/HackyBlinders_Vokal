@@ -6,11 +6,26 @@
 
 ### **<p align="center">📌 Giving voice to the muted </p>**
 
-#### Link to the Original Repositories-:
+## Link to the Original Repositories-:
 
-| Cross Platform App | Website |
-| --- | --- |
-| <a href="https://github.com/SubhanuSRoy/vokal"> Link 1</a> | <a href="https://github.com/eshan1925/Vocal_text_to_speech-FlutterApp">Link 2</a> |
+<table align=center>
+   <tr>
+      <th>
+        Mobile App
+      </th>
+      <th>
+         Website
+      </th>
+   </tr>
+   <tr>
+      <td>
+         <a href="https://github.com/SubhanuSRoy/vokal"> Link 1</a>
+      </td>
+      <td>
+         <a href="https://github.com/eshan1925/Vocal_text_to_speech-FlutterApp">Link 2</a>
+      </td>
+   </tr>
+</table>
 
 #### ⭐ What was our motivation?
 
@@ -24,7 +39,7 @@
 - Our project uses Hand gesture detection and responds with text accordingly.Further the website speaks the sign langauge predicted. Thus solving the problem.
 
 
-## Structure of the Repository 📂
+## Structure of the Web Repository 📂
 
 ```
 root
@@ -40,8 +55,26 @@ root
     * `src`: This folder contains files required for adding design and functionality to website.
     * `package.json`: This files includes the dependencies requied for the website.
     
+## Structure of the App Repository 📂
 
+```
+root
+├── App Files
+|    ├── README.MD
+│    ├── Lib (folder)    
+|    └── pubspec.yaml
+```
+1. **App Files**
+    * `lib`: This folder contains code for main.dart file.
+    * `pubspec.yaml`: This file contains various dependencies required for Flutter project.
 
+## A glinpse of the website🤖-:
+
+## A glimple of the mobile App-:
+
+<div align=center><img src="https://user-images.githubusercontent.com/78701779/142817690-b6a51741-c32e-4127-929c-1b9656513530.jpeg" height=700 width=320></div>
+
+#### Note-: Process of Setting up these projects to your local system is given in the respective repositories.
 ## Our Team💝
 
 <a href="https://github.com/SubhanuSRoy/vokal/graphs/contributors">
