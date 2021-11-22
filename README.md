@@ -68,7 +68,12 @@ root
     * `lib`: This folder contains code for main.dart file.
     * `pubspec.yaml`: This file contains various dependencies required for Flutter project.
 
-## A glinpse of the website🤖-:
+## A glimpse of the website🤖-:
+
+![1](https://user-images.githubusercontent.com/78701779/142820350-0ceca4c8-98bd-4edd-b403-0576674d9931.jpeg)
+![2](https://user-images.githubusercontent.com/78701779/142820346-c8344d62-d2b0-4e27-9d26-26c85639b940.jpeg)
+![3](https://user-images.githubusercontent.com/78701779/142820349-ca3f31b2-0e47-4424-b9a0-70ab272261f0.jpeg)
+![4](https://user-images.githubusercontent.com/78701779/142820432-3f25093c-7783-4ebe-9706-b8d1d054ec98.jpeg)
 
 ## A glimple of the mobile App-:
 
