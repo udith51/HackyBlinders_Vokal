@@ -6,6 +6,12 @@
 
 ### **<p align="center">📌 Giving voice to the muted </p>**
 
+#### Link to the Original Repositories-:
+
+| Cross Platform App | Website |
+| --- | --- |
+| <a href="https://github.com/SubhanuSRoy/vokal"> Link 1</a> | <a href="https://github.com/eshan1925/Vocal_text_to_speech-FlutterApp">Link 2</a> |
+
 #### ⭐ What was our motivation?
 
 >As technology advances, we often aim for newer and better approaches for solving problems leaving behind the orthodox methods. We now have technologies and API's that can work excellent as a translator from one language to another. For instance: Google Translator provides an awesome solution to the language barrier and we can use it very easily to communicate with some person with absolutely no knowledge about their language. But a speech-disabled person doesn't get a lot of benifits in this regard with the technologies available. There are no such proper service or website available that works as a translator for the MUTE i.e. a service that understands the sign language and converts it into user understandable form. So here was our motivation to build this project - **VOKAL- Giving voice to the muted**.
